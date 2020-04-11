@@ -1,4 +1,4 @@
-902617
+903184
 1,Local,,,,,
 2,Local/Cluster,,,,,
 8,Regional,,,,,
@@ -2752,6 +2752,7 @@
 2286253,HB9HDO,Tom,Steinhausen,Zentralschweiz und Tessin,Tom,CHE
 2286254,HB9HEC,Gabri,Astano,Gabri,Gabri,CHE
 2286255,HB3YTC,Roberto,Lumino,,Roberto,CHE
+2286256,HB9TTY,Fred,Buttisholz,.,Fred,CHE
 2287001,HB9FPO,Stefano,Poschiavo,Graubuenden,Stefano,CHE
 2287002,HB9HAN,Roland Peter,Sargans,Graubuenden,Roland,CHE
 2287003,HB9FPO,Stefano Foppoli,Poschiavo,Graubuenden,Stefano,CHE
@@ -3470,6 +3471,7 @@
 2321245,OE1MVA,Martin Wytek,Wien,WIEN,Martin,AUT
 2321246,OE1ATV,Fikret Yekdes,Wien,WIEN,Fikret,AUT
 2321247,OE1DMW,Erhard Schramm,Wien,WIEN,Erhard,AUT
+2321248,OE1FQA,Franz Ablinger,Wien,WIEN,Franz,AUT
 2321249,OE1NBS,Nicolas Bachschwell,Wien,WIEN,Nicolas,AUT
 2321250,OE1HNA,Heribert Naber,Wien,WIEN,Heribert,AUT
 2321301,OE1BAD,Andreas Boeck,Wien,WIEN,Andreas,AUT
@@ -4107,6 +4109,7 @@
 2325172,OE5GEM,Karl Griesmaier,Eberschwang,OOE,Karl,AUT
 2325173,OE5DAO,Daniel Schatz,Asten,OOE,Daniel,AUT
 2325174,OE5AKM,Alfred Mateja,Linz,OOE,Alfred,AUT
+2325175,OE50RGB,Rainer Gangl,Heidenreichstein,NOE,Rainer,AUT
 2325181,OE5PON,Andreas Pointner,Alberndorf In der Riedmark,OOE,Andreas,AUT
 2325251,OE5DRP,Peter Albrecht,Schlaegl,OOE,Peter,AUT
 2326001,OE6HEF,Harald Enko,St. Peter Ob Judenburg,STMK,Harald,AUT
@@ -5259,6 +5262,13 @@
 2620491,DL1HLK,Rene Jockwer,Graefenhainichen,ST,Rene,DEU
 2620492,DD5SH,Stefan Huber,Karlsruhe,BW,Stefan,DEU
 2620493,DH8WW,Lutz Seyfarth,Erfurt,TH,Lutz,DEU
+2620494,DG1CL,Christian Lehmann,Luebeck,SH,Christian,DEU
+2620495,DJ3EM,Julian Emmert,Oberhaching,BY,Julian,DEU
+2620496,DG3FDR,Keramettin Bolat,Hanau,HE,Keramettin,DEU
+2620497,DJ0VA,Paco Benitez-Fernandez,Offenbach am Main,HE,Paco,DEU
+2620498,DL6WJ,Joerg Waldhauser,Bad Oeynhausen,NW,Joerg,DEU
+2620499,DC7MA,Christian Marmann,Brauneberg,RP,Christian,DEU
+2620500,DD6VD,Michael Jaekel,Berlin,BE,Michael,DEU
 2621001,DL7AJ,Wolfgang Meier,Berlin,BE,Wolfgang,DEU
 2621002,DG4FEY,Thomas Kocher,Berlin,BE,Thomas,DEU
 2621003,DL7ATA,Frank Kochanski,Berlin,BE,Frank,DEU

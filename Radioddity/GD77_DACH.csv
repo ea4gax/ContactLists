@@ -1028,6 +1028,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2286253,HB9HDO,Tom,Tom,Steinhausen,Zentralschweiz und Tessin - CHE,,DMR
 2286254,HB9HEC,Gabri,Gabri,Astano,Gabri - CHE,,DMR
 2286255,HB3YTC,Roberto,Roberto,Lumino, - CHE,,DMR
+2286256,HB9TTY,Fred,Fred,Buttisholz,. - CHE,,DMR
 2287001,HB9FPO,Stefano,Stefano,Poschiavo,Graubuenden - CHE,,DMR
 2287002,HB9HAN,Roland Peter,Roland,Sargans,Graubuenden - CHE,,DMR
 2287003,HB9FPO,Stefano Foppoli,Stefano,Poschiavo,Graubuenden - CHE,,DMR
@@ -1746,6 +1747,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2321245,OE1MVA,Martin Wytek ,Martin,Wien,WIEN - AUT,,DMR
 2321246,OE1ATV,Fikret Yekdes ,Fikret,Wien,WIEN - AUT,,DMR
 2321247,OE1DMW,Erhard Schramm ,Erhard,Wien,WIEN - AUT,,DMR
+2321248,OE1FQA,Franz Ablinger,Franz,Wien,WIEN - AUT,,DMR
 2321249,OE1NBS,Nicolas Bachschwell ,Nicolas,Wien,WIEN - AUT,,DMR
 2321250,OE1HNA,Heribert Naber ,Heribert,Wien,WIEN - AUT,,DMR
 2321301,OE1BAD,Andreas Boeck ,Andreas,Wien,WIEN - AUT,,DMR
@@ -2383,6 +2385,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2325172,OE5GEM,Karl Griesmaier ,Karl,Eberschwang,OOE - AUT,,DMR
 2325173,OE5DAO,Daniel Schatz ,Daniel,Asten,OOE - AUT,,DMR
 2325174,OE5AKM,Alfred Mateja ,Alfred,Linz,OOE - AUT,,DMR
+2325175,OE50RGB,Rainer Gangl,Rainer,Heidenreichstein,NOE - AUT,,DMR
 2325181,OE5PON,Andreas Pointner ,Andreas,Alberndorf In der Riedmark,OOE - AUT,,DMR
 2325251,OE5DRP,Peter Albrecht ,Peter,Schlaegl,OOE - AUT,,DMR
 2326001,OE6HEF,Harald Enko ,Harald,St. Peter Ob Judenburg,STMK - AUT,,DMR
@@ -3535,6 +3538,13 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2620491,DL1HLK,Rene Jockwer,Rene,Graefenhainichen,ST - DEU,,DMR
 2620492,DD5SH,Stefan Huber,Stefan,Karlsruhe,BW - DEU,,DMR
 2620493,DH8WW,Lutz Seyfarth,Lutz,Erfurt,TH - DEU,,DMR
+2620494,DG1CL,Christian Lehmann,Christian,Luebeck,SH - DEU,,DMR
+2620495,DJ3EM,Julian Emmert,Julian,Oberhaching,BY - DEU,,DMR
+2620496,DG3FDR,Keramettin Bolat,Keramettin,Hanau,HE - DEU,,DMR
+2620497,DJ0VA,Paco Benitez-Fernandez,Paco,Offenbach am Main,HE - DEU,,DMR
+2620498,DL6WJ,Joerg Waldhauser,Joerg,Bad Oeynhausen,NW - DEU,,DMR
+2620499,DC7MA,Christian Marmann,Christian,Brauneberg,RP - DEU,,DMR
+2620500,DD6VD,Michael Jaekel,Michael,Berlin,BE - DEU,,DMR
 2621001,DL7AJ,Wolfgang Meier,Wolfgang,Berlin,BE - DEU,,DMR
 2621002,DG4FEY,Thomas Kocher,Thomas,Berlin,BE - DEU,,DMR
 2621003,DL7ATA,Frank Kochanski,Frank,Berlin,BE - DEU,,DMR

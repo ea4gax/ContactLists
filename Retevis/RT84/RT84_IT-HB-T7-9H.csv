@@ -2981,7 +2981,7 @@
 2222981,IU2CNT,Franz,Azzano Mella (BS),Lombardia,ITA
 2222982,IU2GOH,Irene,Azzano Mella (BS),Lombardia,ITA
 2222983,IU2CUV,Nicola,Paratico (BS),Lombardia,ITA
-2222984,IZ2SWB,Pressgio,no_city,Lombardia,ITA
+2222984,IZ2SWB,Giorgio,Bergamo (BG),Lombardia,ITA
 2222985,IU2CKS,Valter,Bedulita (BG),Lombardia,ITA
 2222986,IU2BUK,Flaviu,Desio (MB),Lombardia,ITA
 2222987,IK2SAB,Vito,Cocquio (VA),Lombardia,ITA
@@ -5651,7 +5651,7 @@
 2225651,IW3HKM,Patrizia,Marghera (VE),Veneto,ITA
 2225652,IU2NRZ,Marzio,Roncello (MB),Lombardia,ITA
 2225653,IZ6TSJ,Giorgio,Falconara Marittima (AN),Marche,ITA
-2225654,IT9HGI,Sergej,No_city,Sicilia,ITA
+2225654,I0LTX,Corrado,Velletri (RM),Lazio,ITA
 2225655,IK2AHG,Davide,Vaprio D' Adda (MI),Lombadia,ITA
 2225656,IZ8LLP,Giuseppe,Piedimonte Matese (CE),Campania,ITA
 2225657,IZ3QNK,Omar,Arcugnano (VI),Veneto,ITA
@@ -5725,6 +5725,8 @@
 2225725,IU5FGI,Roberto,Santa Maria A Monte (PI),Toscana,ITA
 2225726,IV3SXI,Massimo,Turriaco (GO),Friuli VG,ITA
 2225727,IZ8EZB,Vincenzo,Casoria (NA),Campania,ITA
+2225728,IU2ABD,Fabrizio,Milano (MI),Lombardia,ITA
+2225729,IU4NTK,No_name,No_city,,ITA
 2226001,IZ6FGP,Mario,Ortona (CH),Abruzzo,ITA
 2226002,IK6TTE,Plinio,Casalbordino (CH),Abruzzo,ITA
 2226003,IZ6FGP,Mario,Ortona (CH),Abruzzo,ITA
@@ -5763,7 +5765,7 @@
 2226036,IK6QOO,Gianluca,L'Aquila (AQ),Abruzzo,ITA
 2226037,IZ6MAF,Paolo,L'Aquila (AQ),Abruzzo,ITA
 2226038,IK6DIO,Claudio,Senigallia (AN),Marche,ITA
-2226039,IU6DFH,Vincenzo,Laquila,Abruzzo,ITA
+2226039,IU6FDH,Vincenzo,Monticchio (AQ),Marche,ITA
 2226040,IW6MON,Massimo,L'Aquila (AQ),Abruzzo,ITA
 2226041,IZ6ORC,Ciro,Francavilla Al Mare (CH),Abruzzo,ITA
 2226042,IZ6GVT,Antonello,L'Aquila (AQ),Abruzzo,ITA
@@ -8940,6 +8942,7 @@
 2286253,HB9HDO,Tom,Steinhausen,Zentralschweiz und Tessin,CHE
 2286254,HB9HEC,Gabri,Astano,Gabri,CHE
 2286255,HB3YTC,Roberto,Lumino,,CHE
+2286256,HB9TTY,Fred,Buttisholz,.,CHE
 2287001,HB9FPO,Stefano,Poschiavo,Graubuenden,CHE
 2287002,HB9HAN,Roland,Sargans,Graubuenden,CHE
 2287003,HB9FPO,Stefano,Poschiavo,Graubuenden,CHE

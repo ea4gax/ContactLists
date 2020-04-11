@@ -2982,7 +2982,7 @@ Private Call,IW2HBC Claudio,Richini,Darfo Boario Terme (BS),Lombardia - ITA,2222
 Private Call,IU2CNT Franz,,Azzano Mella (BS),Lombardia - ITA,2222981
 Private Call,IU2GOH Irene,,Azzano Mella (BS),Lombardia - ITA,2222982
 Private Call,IU2CUV Nicola,,Paratico (BS),Lombardia - ITA,2222983
-Private Call,IZ2SWB Pressgio,,no_city,Lombardia - ITA,2222984
+Private Call,IZ2SWB Giorgio,,Bergamo (BG),Lombardia - ITA,2222984
 Private Call,IU2CKS Valter,Locatelli,Bedulita (BG),Lombardia - ITA,2222985
 Private Call,IU2BUK Flaviu,Massa,Desio (MB),Lombardia - ITA,2222986
 Private Call,IK2SAB Vito,Giunta,Cocquio (VA),Lombardia - ITA,2222987
@@ -5652,7 +5652,7 @@ Private Call,IK8FKP Francesco,Greco,Cosenza,Calabria - ITA,2225650
 Private Call,IW3HKM Patrizia,Dainese,Marghera (VE),Veneto - ITA,2225651
 Private Call,IU2NRZ Marzio,,Roncello (MB),Lombardia - ITA,2225652
 Private Call,IZ6TSJ Giorgio,Artis,Falconara Marittima (AN),Marche - ITA,2225653
-Private Call,IT9HGI Sergej,Lilin,No_city,Sicilia - ITA,2225654
+Private Call,I0LTX Corrado,Lunetta,Velletri (RM),Lazio - ITA,2225654
 Private Call,IK2AHG Davide,Improta,Vaprio D' Adda (MI),Lombadia - ITA,2225655
 Private Call,IZ8LLP Giuseppe,Masullo,Piedimonte Matese (CE),Campania - ITA,2225656
 Private Call,IZ3QNK Omar,Renso,Arcugnano (VI),Veneto - ITA,2225657
@@ -5726,6 +5726,8 @@ Private Call,IT9MGD Renato,Abita,Trapani (TP),Sicilia - ITA,2225724
 Private Call,IU5FGI Roberto,Caciagli,Santa Maria A Monte (PI),Toscana - ITA,2225725
 Private Call,IV3SXI Massimo,Fabris,Turriaco (GO),Friuli VG - ITA,2225726
 Private Call,IZ8EZB Vincenzo,Attanasio,Casoria (NA),Campania - ITA,2225727
+Private Call,IU2ABD Fabrizio,,Milano (MI),Lombardia - ITA,2225728
+Private Call,IU4NTK No_name,,No_city, - ITA,2225729
 Private Call,IZ6FGP Mario,Ranni,Ortona (CH),Abruzzo - ITA,2226001
 Private Call,IK6TTE Plinio,Codastefano,Casalbordino (CH),Abruzzo - ITA,2226002
 Private Call,IZ6FGP Mario,Ranni,Ortona (CH),Abruzzo - ITA,2226003
@@ -5764,7 +5766,7 @@ Private Call,IK6OAK Ilario,Ramondo,Casoli (CH),Abruzzo - ITA,2226035
 Private Call,IK6QOO Gianluca,Ianni,L'Aquila (AQ),Abruzzo - ITA,2226036
 Private Call,IZ6MAF Paolo,Paolucci,L'Aquila (AQ),Abruzzo - ITA,2226037
 Private Call,IK6DIO Claudio,Mengucci,Senigallia (AN),Marche - ITA,2226038
-Private Call,IU6DFH Vincenzo,Marucci,Laquila,Abruzzo - ITA,2226039
+Private Call,IU6FDH Vincenzo,Marucci,Monticchio (AQ),Marche - ITA,2226039
 Private Call,IW6MON Massimo,Gioia,L'Aquila (AQ),Abruzzo - ITA,2226040
 Private Call,IZ6ORC Ciro,Guerra,Francavilla Al Mare (CH),Abruzzo - ITA,2226041
 Private Call,IZ6GVT Antonello,Castri,L'Aquila (AQ),Abruzzo - ITA,2226042
@@ -8941,6 +8943,7 @@ Private Call,HB9BXE Peter,Peter,Adligenswil,Zentralschweiz und Tessin - CHE,2286
 Private Call,HB9HDO Tom,,Steinhausen,Zentralschweiz und Tessin - CHE,2286253
 Private Call,HB9HEC Gabri,,Astano,Gabri - CHE,2286254
 Private Call,HB3YTC Roberto,,Lumino, - CHE,2286255
+Private Call,HB9TTY Fred,,Buttisholz,. - CHE,2286256
 Private Call,HB9FPO Stefano,,Poschiavo,Graubuenden - CHE,2287001
 Private Call,HB9HAN Roland,Peter,Sargans,Graubuenden - CHE,2287002
 Private Call,HB9FPO Stefano,Foppoli,Poschiavo,Graubuenden - CHE,2287003

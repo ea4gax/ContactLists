@@ -1,4 +1,4 @@
-666294
+666459
 1,Local,,,,,
 2,Local/Cluster,,,,,
 8,Regional,,,,,
@@ -4706,7 +4706,7 @@
 2222981,IU2CNT,Franz,Azzano Mella (BS),Lombardia,Franz,ITA
 2222982,IU2GOH,Irene,Azzano Mella (BS),Lombardia,Irene,ITA
 2222983,IU2CUV,Nicola,Paratico (BS),Lombardia,Nicola,ITA
-2222984,IZ2SWB,Pressgio,no_city,Lombardia,Pressgio,ITA
+2222984,IZ2SWB,Giorgio,Bergamo (BG),Lombardia,Giorgio,ITA
 2222985,IU2CKS,Valter Locatelli,Bedulita (BG),Lombardia,Valter,ITA
 2222986,IU2BUK,Flaviu Massa,Desio (MB),Lombardia,Flaviu,ITA
 2222987,IK2SAB,Vito Giunta,Cocquio (VA),Lombardia,Vito,ITA
@@ -7376,7 +7376,7 @@
 2225651,IW3HKM,Patrizia Dainese,Marghera (VE),Veneto,Patrizia,ITA
 2225652,IU2NRZ,Marzio,Roncello (MB),Lombardia,Marzio,ITA
 2225653,IZ6TSJ,Giorgio Artis,Falconara Marittima (AN),Marche,Giorgio,ITA
-2225654,IT9HGI,Sergej Lilin,No_city,Sicilia,Sergej,ITA
+2225654,I0LTX,Corrado Lunetta,Velletri (RM),Lazio,Corrado,ITA
 2225655,IK2AHG,Davide Improta,Vaprio D' Adda (MI),Lombadia,Davide,ITA
 2225656,IZ8LLP,Giuseppe Masullo,Piedimonte Matese (CE),Campania,Giuseppe,ITA
 2225657,IZ3QNK,Omar Renso,Arcugnano (VI),Veneto,Omar,ITA
@@ -7450,6 +7450,8 @@
 2225725,IU5FGI,Roberto Caciagli,Santa Maria A Monte (PI),Toscana,Roberto,ITA
 2225726,IV3SXI,Massimo Fabris,Turriaco (GO),Friuli VG,Massimo,ITA
 2225727,IZ8EZB,Vincenzo Attanasio,Casoria (NA),Campania,Vincenzo,ITA
+2225728,IU2ABD,Fabrizio,Milano (MI),Lombardia,Fabrizio,ITA
+2225729,IU4NTK,No_name,No_city,,No_name,ITA
 2226001,IZ6FGP,Mario Ranni,Ortona (CH),Abruzzo,Mario,ITA
 2226002,IK6TTE,Plinio Codastefano,Casalbordino (CH),Abruzzo,Plinio,ITA
 2226003,IZ6FGP,Mario Ranni,Ortona (CH),Abruzzo,Mario,ITA
@@ -7488,7 +7490,7 @@
 2226036,IK6QOO,Gianluca Ianni,L'Aquila (AQ),Abruzzo,Gianluca,ITA
 2226037,IZ6MAF,Paolo Paolucci,L'Aquila (AQ),Abruzzo,Paolo,ITA
 2226038,IK6DIO,Claudio Mengucci,Senigallia (AN),Marche,Claudio,ITA
-2226039,IU6DFH,Vincenzo Marucci,Laquila,Abruzzo,Vincenzo,ITA
+2226039,IU6FDH,Vincenzo Marucci,Monticchio (AQ),Marche,Vincenzo,ITA
 2226040,IW6MON,Massimo Gioia,L'Aquila (AQ),Abruzzo,Massimo,ITA
 2226041,IZ6ORC,Ciro Guerra,Francavilla Al Mare (CH),Abruzzo,Ciro,ITA
 2226042,IZ6GVT,Antonello Castri,L'Aquila (AQ),Abruzzo,Antonello,ITA
@@ -10665,6 +10667,7 @@
 2286253,HB9HDO,Tom,Steinhausen,Zentralschweiz und Tessin,Tom,CHE
 2286254,HB9HEC,Gabri,Astano,Gabri,Gabri,CHE
 2286255,HB3YTC,Roberto,Lumino,,Roberto,CHE
+2286256,HB9TTY,Fred,Buttisholz,.,Fred,CHE
 2287001,HB9FPO,Stefano,Poschiavo,Graubuenden,Stefano,CHE
 2287002,HB9HAN,Roland Peter,Sargans,Graubuenden,Roland,CHE
 2287003,HB9FPO,Stefano Foppoli,Poschiavo,Graubuenden,Stefano,CHE

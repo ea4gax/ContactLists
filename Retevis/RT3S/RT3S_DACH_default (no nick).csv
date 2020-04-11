@@ -1028,6 +1028,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2286253,HB9HDO,Tom,,Steinhausen,Zentralschweiz und Tessin,CHE
 2286254,HB9HEC,Gabri,,Astano,Gabri,CHE
 2286255,HB3YTC,Roberto,,Lumino,,CHE
+2286256,HB9TTY,Fred,,Buttisholz,.,CHE
 2287001,HB9FPO,Stefano,,Poschiavo,Graubuenden,CHE
 2287002,HB9HAN,Roland Peter,,Sargans,Graubuenden,CHE
 2287003,HB9FPO,Stefano Foppoli,,Poschiavo,Graubuenden,CHE
@@ -1746,6 +1747,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2321245,OE1MVA,Martin Wytek ,,Wien,WIEN,AUT
 2321246,OE1ATV,Fikret Yekdes ,,Wien,WIEN,AUT
 2321247,OE1DMW,Erhard Schramm ,,Wien,WIEN,AUT
+2321248,OE1FQA,Franz Ablinger,,Wien,WIEN,AUT
 2321249,OE1NBS,Nicolas Bachschwell ,,Wien,WIEN,AUT
 2321250,OE1HNA,Heribert Naber ,,Wien,WIEN,AUT
 2321301,OE1BAD,Andreas Boeck ,,Wien,WIEN,AUT
@@ -2383,6 +2385,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2325172,OE5GEM,Karl Griesmaier ,,Eberschwang,OOE,AUT
 2325173,OE5DAO,Daniel Schatz ,,Asten,OOE,AUT
 2325174,OE5AKM,Alfred Mateja ,,Linz,OOE,AUT
+2325175,OE50RGB,Rainer Gangl,,Heidenreichstein,NOE,AUT
 2325181,OE5PON,Andreas Pointner ,,Alberndorf In der Riedmark,OOE,AUT
 2325251,OE5DRP,Peter Albrecht ,,Schlaegl,OOE,AUT
 2326001,OE6HEF,Harald Enko ,,St. Peter Ob Judenburg,STMK,AUT
@@ -3535,6 +3538,13 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2620491,DL1HLK,Rene Jockwer,,Graefenhainichen,ST,DEU
 2620492,DD5SH,Stefan Huber,,Karlsruhe,BW,DEU
 2620493,DH8WW,Lutz Seyfarth,,Erfurt,TH,DEU
+2620494,DG1CL,Christian Lehmann,,Luebeck,SH,DEU
+2620495,DJ3EM,Julian Emmert,,Oberhaching,BY,DEU
+2620496,DG3FDR,Keramettin Bolat,,Hanau,HE,DEU
+2620497,DJ0VA,Paco Benitez-Fernandez,,Offenbach am Main,HE,DEU
+2620498,DL6WJ,Joerg Waldhauser,,Bad Oeynhausen,NW,DEU
+2620499,DC7MA,Christian Marmann,,Brauneberg,RP,DEU
+2620500,DD6VD,Michael Jaekel,,Berlin,BE,DEU
 2621001,DL7AJ,Wolfgang Meier,,Berlin,BE,DEU
 2621002,DG4FEY,Thomas Kocher,,Berlin,BE,DEU
 2621003,DL7ATA,Frank Kochanski,,Berlin,BE,DEU

@@ -2981,7 +2981,7 @@
 2222981,IU2CNT Franz   ,Franz                    Azzano Mella (BS)       Lombardia               ITA
 2222982,IU2GOH Irene   ,Irene                    Azzano Mella (BS)       Lombardia               ITA
 2222983,IU2CUV Nicola  ,Nicola                   Paratico (BS)           Lombardia               ITA
-2222984,IZ2SWB Pressgio,Pressgio                 no_city                 Lombardia               ITA
+2222984,IZ2SWB Giorgio ,Giorgio                  Bergamo (BG)            Lombardia               ITA
 2222985,IU2CKS Valter  ,Valter Locatelli         Bedulita (BG)           Lombardia               ITA
 2222986,IU2BUK Flaviu  ,Flaviu Massa             Desio (MB)              Lombardia               ITA
 2222987,IK2SAB Vito    ,Vito Giunta              Cocquio (VA)            Lombardia               ITA
@@ -5651,7 +5651,7 @@
 2225651,IW3HKM Patrizia,Patrizia Dainese         Marghera (VE)           Veneto                  ITA
 2225652,IU2NRZ Marzio  ,Marzio                   Roncello (MB)           Lombardia               ITA
 2225653,IZ6TSJ Giorgio ,Giorgio Artis            Falconara Marittima (AN)Marche                  ITA
-2225654,IT9HGI Sergej  ,Sergej Lilin             No_city                 Sicilia                 ITA
+2225654,I0LTX Corrado  ,Corrado Lunetta          Velletri (RM)           Lazio                   ITA
 2225655,IK2AHG Davide  ,Davide Improta           Vaprio D' Adda (MI)     Lombadia                ITA
 2225656,IZ8LLP Giuseppe,Giuseppe Masullo         Piedimonte Matese (CE)  Campania                ITA
 2225657,IZ3QNK Omar    ,Omar Renso               Arcugnano (VI)          Veneto                  ITA
@@ -5725,6 +5725,8 @@
 2225725,IU5FGI Roberto ,Roberto Caciagli         Santa Maria A Monte (PI)Toscana                 ITA
 2225726,IV3SXI Massimo ,Massimo Fabris           Turriaco (GO)           Friuli VG               ITA
 2225727,IZ8EZB Vincenzo,Vincenzo Attanasio       Casoria (NA)            Campania                ITA
+2225728,IU2ABD Fabrizio,Fabrizio                 Milano (MI)             Lombardia               ITA
+2225729,IU4NTK No_name ,No_name                  No_city                                         ITA
 2226001,IZ6FGP Mario   ,Mario Ranni              Ortona (CH)             Abruzzo                 ITA
 2226002,IK6TTE Plinio  ,Plinio Codastefano       Casalbordino (CH)       Abruzzo                 ITA
 2226003,IZ6FGP Mario   ,Mario Ranni              Ortona (CH)             Abruzzo                 ITA
@@ -5763,7 +5765,7 @@
 2226036,IK6QOO Gianluca,Gianluca Ianni           L'Aquila (AQ)           Abruzzo                 ITA
 2226037,IZ6MAF Paolo   ,Paolo Paolucci           L'Aquila (AQ)           Abruzzo                 ITA
 2226038,IK6DIO Claudio ,Claudio Mengucci         Senigallia (AN)         Marche                  ITA
-2226039,IU6DFH Vincenzo,Vincenzo Marucci         Laquila                 Abruzzo                 ITA
+2226039,IU6FDH Vincenzo,Vincenzo Marucci         Monticchio (AQ)         Marche                  ITA
 2226040,IW6MON Massimo ,Massimo Gioia            L'Aquila (AQ)           Abruzzo                 ITA
 2226041,IZ6ORC Ciro    ,Ciro Guerra              Francavilla Al Mare (CH)Abruzzo                 ITA
 2226042,IZ6GVT Antonell,Antonello Castri         L'Aquila (AQ)           Abruzzo                 ITA
@@ -8940,6 +8942,7 @@
 2286253,HB9HDO Tom     ,Tom                      Steinhausen             Zentralschweiz und TessiCHE
 2286254,HB9HEC Gabri   ,Gabri                    Astano                  Gabri                   CHE
 2286255,HB3YTC Roberto ,Roberto                  Lumino                  CHE
+2286256,HB9TTY Fred    ,Fred                     Buttisholz              .                       CHE
 2287001,HB9FPO Stefano ,Stefano                  Poschiavo               Graubuenden             CHE
 2287002,HB9HAN Roland  ,Roland Peter             Sargans                 Graubuenden             CHE
 2287003,HB9FPO Stefano ,Stefano Foppoli          Poschiavo               Graubuenden             CHE

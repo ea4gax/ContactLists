@@ -2982,7 +2982,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2222981,IU2CNT,Franz,Franz,Azzano Mella (BS),Lombardia - ITA,,Private Call,None
 ,2222982,IU2GOH,Irene,Irene,Azzano Mella (BS),Lombardia - ITA,,Private Call,None
 ,2222983,IU2CUV,Nicola,Nicola,Paratico (BS),Lombardia - ITA,,Private Call,None
-,2222984,IZ2SWB,Pressgio,Pressgio,no_city,Lombardia - ITA,,Private Call,None
+,2222984,IZ2SWB,Giorgio,Giorgio,Bergamo (BG),Lombardia - ITA,,Private Call,None
 ,2222985,IU2CKS,Valter,Valter Locatelli,Bedulita (BG),Lombardia - ITA,,Private Call,None
 ,2222986,IU2BUK,Flaviu,Flaviu Massa,Desio (MB),Lombardia - ITA,,Private Call,None
 ,2222987,IK2SAB,Vito,Vito Giunta,Cocquio (VA),Lombardia - ITA,,Private Call,None
@@ -5652,7 +5652,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2225651,IW3HKM,Patrizia,Patrizia Dainese,Marghera (VE),Veneto - ITA,,Private Call,None
 ,2225652,IU2NRZ,Marzio,Marzio ,Roncello (MB),Lombardia - ITA,,Private Call,None
 ,2225653,IZ6TSJ,Giorgio,Giorgio Artis,Falconara Marittima (AN),Marche - ITA,,Private Call,None
-,2225654,IT9HGI,Sergej,Sergej Lilin,No_city,Sicilia - ITA,,Private Call,None
+,2225654,I0LTX,Corrado,Corrado Lunetta,Velletri (RM),Lazio - ITA,,Private Call,None
 ,2225655,IK2AHG,Davide,Davide Improta,Vaprio D' Adda (MI),Lombadia - ITA,,Private Call,None
 ,2225656,IZ8LLP,Giuseppe,Giuseppe Masullo,Piedimonte Matese (CE),Campania - ITA,,Private Call,None
 ,2225657,IZ3QNK,Omar,Omar Renso,Arcugnano (VI),Veneto - ITA,,Private Call,None
@@ -5726,6 +5726,8 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2225725,IU5FGI,Roberto,Roberto Caciagli,Santa Maria A Monte (PI),Toscana - ITA,,Private Call,None
 ,2225726,IV3SXI,Massimo,Massimo Fabris,Turriaco (GO),Friuli VG - ITA,,Private Call,None
 ,2225727,IZ8EZB,Vincenzo,Vincenzo Attanasio,Casoria (NA),Campania - ITA,,Private Call,None
+,2225728,IU2ABD,Fabrizio,Fabrizio,Milano (MI),Lombardia - ITA,,Private Call,None
+,2225729,IU4NTK,No_name,No_name ,No_city, - ITA,,Private Call,None
 ,2226001,IZ6FGP,Mario,Mario Ranni,Ortona (CH),Abruzzo - ITA,,Private Call,None
 ,2226002,IK6TTE,Plinio,Plinio Codastefano,Casalbordino (CH),Abruzzo - ITA,,Private Call,None
 ,2226003,IZ6FGP,Mario,Mario Ranni,Ortona (CH),Abruzzo - ITA,,Private Call,None
@@ -5764,7 +5766,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2226036,IK6QOO,Gianluca,Gianluca Ianni,L'Aquila (AQ),Abruzzo - ITA,,Private Call,None
 ,2226037,IZ6MAF,Paolo,Paolo Paolucci,L'Aquila (AQ),Abruzzo - ITA,,Private Call,None
 ,2226038,IK6DIO,Claudio,Claudio Mengucci,Senigallia (AN),Marche - ITA,,Private Call,None
-,2226039,IU6DFH,Vincenzo,Vincenzo Marucci,Laquila,Abruzzo - ITA,,Private Call,None
+,2226039,IU6FDH,Vincenzo,Vincenzo Marucci,Monticchio (AQ),Marche - ITA,,Private Call,None
 ,2226040,IW6MON,Massimo,Massimo Gioia,L'Aquila (AQ),Abruzzo - ITA,,Private Call,None
 ,2226041,IZ6ORC,Ciro,Ciro Guerra,Francavilla Al Mare (CH),Abruzzo - ITA,,Private Call,None
 ,2226042,IZ6GVT,Antonello,Antonello Castri,L'Aquila (AQ),Abruzzo - ITA,,Private Call,None
